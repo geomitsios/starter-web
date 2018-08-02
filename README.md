@@ -16,4 +16,4 @@ some deployment information.
 
 ### Copyright
 
-copyright notice
+copyright notice. All rights reserved
